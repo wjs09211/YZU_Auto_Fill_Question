@@ -1,0 +1,9 @@
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\bin\Debug\YZU_Auto_Fill_Question.exe.config
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\bin\Debug\YZU_Auto_Fill_Question.exe
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\bin\Debug\YZU_Auto_Fill_Question.pdb
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.csprojResolveAssemblyReference.cache
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.Form1.resources
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.Properties.Resources.resources
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.csproj.GenerateResource.Cache
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.exe
+D:\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.pdb
