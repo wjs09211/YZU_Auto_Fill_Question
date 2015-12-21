@@ -168,7 +168,7 @@ namespace YZU_Auto_Fill_Question
             string param =
                      string.Format(formatString, viewState, eventValidation, textBox1.Text.ToString(), textBox2.Text.ToString(), submitButton);
             HttpPost("https://portalx.yzu.edu.tw/PortalSocialVB/Login.aspx", param);
-            if (html.IndexOf("DefaultPage.aspx") != -1)
+            if (html.IndexOf("登入失敗") == -1 && html.IndexOf("請輸入使用者帳號密碼") == -1)
             {
                 listBox2.Items.Add("登入成功");
                 checkLogin = true;
