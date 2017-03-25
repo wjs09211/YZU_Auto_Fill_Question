@@ -15,3 +15,4 @@ D:\mega\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\bin\D
 D:\mega\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.Form1.resources
 D:\mega\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.Properties.Resources.resources
 D:\mega\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.csproj.GenerateResource.Cache
+D:\mega\Project\program_2015\YZU_Auto_Fill_Question\YZU_Auto_Fill_Question\obj\Debug\YZU_Auto_Fill_Question.csprojResolveAssemblyReference.cache
