@@ -7,4 +7,4 @@
 請上網確認是否成功<br><br>
 版本1.0
 
-[alt tag](https://github.com/wjs09211/YZU_Auto_Fill_Question/blob/master/demo.JPG "demo.JPG")
+![alt tag](https://github.com/wjs09211/YZU_Auto_Fill_Question/blob/master/demo.JPG "demo.JPG")
